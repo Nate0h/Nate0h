@@ -9,7 +9,6 @@ I'm an aspiring software engineer eager to explore the limitless potential and p
 ### 🧐 About Me:
 
 - 🌱 I’m currently learning **NodeJS**
-- 👨‍💻 All of my projects are available at [sgfsdgsdg](sgfsdgsdg)
 - 📫 How to reach me **nathanielcolon12@gmail.com**
 
 
