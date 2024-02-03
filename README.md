@@ -2,16 +2,15 @@
    <h1>Hi there I'm Nate, Welcome to my Github!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
 </div>
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I'm an aspiring software engineer eager to explore the limitless potential and possibilities in tech. I'm all about continious learning, and I see challenges as great opportuniites to grow and come up with creative solutions. The excitement of picking up new skills and then using them to tackle problems in unique ways is what fuels me to become a better programmer every day!
 <br>
 
 
 ### 🧐 About Me:
 
-- 🌱 I’m currently learning **sgfsdfgsd**
+- 🌱 I’m currently learning **NodeJS**
 - 👨‍💻 All of my projects are available at [sgfsdgsdg](sgfsdgsdg)
 - 📫 How to reach me **nathanielcolon12@gmail.com**
-- 📄 Know about my experiences [sfdgsdfg](sfdgsdfg)
 
 
   
