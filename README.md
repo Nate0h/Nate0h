@@ -15,7 +15,7 @@ I'm an aspiring software engineer eager to explore the limitless potential and p
   
 ### 🌐 Connect with me on 
 <p align="left">
-<a href="https://linkedin.com/in/nathaniel colon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathaniel colon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nathaniel-colon-029a46197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathaniel colon" height="30" width="40" /></a>
 </p>
 
 ### ⚙️ Languages and Tools I use
