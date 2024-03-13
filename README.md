@@ -36,6 +36,5 @@ I'm an aspiring software engineer eager to explore the limitless potential and p
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nate0h&show_icons=true&locale=en&layout=compact" alt="nate0h" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nate0h&show_icons=true&locale=en" alt="nate0h" /></p>
 
 
